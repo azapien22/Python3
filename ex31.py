@@ -23,7 +23,8 @@ if door == "1":
       
 elif door == "2":
       print("You stare into the endless abyss at cthulhu's retina.")
-      print("1. Blueberries.") 
+      print("1. Blueberries.")
+      print("2. Yellow jacket clothespin.") 
       print("3. Understanding revolvers yelling melodies.")
       
       insanity = input("> ")
