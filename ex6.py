@@ -31,13 +31,5 @@ w = "This is the left side of..."
 
 e = "a string with a right side."
 
-# Adding a + sign concatenates w & e
+# Adding a "+" sign concatenates w & e
 print(w + e)
-
-# .format fills in the variable
-txt = "For only {price:.2f} dollars!"
-print(txt.format(price = 49))
-
-# .format fills in the empty variable
-txt = "For only {} dollars!"
-print(txt.format(60))
