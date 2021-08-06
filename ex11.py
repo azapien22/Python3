@@ -1,7 +1,7 @@
 # Ex. 11 Asking Questions
 ''' I put an end=' ' at the end of each print line. This tells print
 to not end the line with a newline character and go to the next line.'''
- 
+
 print("How old are you?", end='')
 
 age = input()
